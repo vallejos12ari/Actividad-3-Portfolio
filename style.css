@@ -466,6 +466,12 @@ span{
     font-size: 3rem;
     font-weight: 800;
     line-height: 2;
+    
+}
+
+.project-info h4 a{
+    text-decoration: none;
+    color: #131313;
 }
 
 .project-info p{
@@ -475,6 +481,8 @@ span{
     line-height: 1.7;
     margin:auto;
 }
+
+
 
 .technologies{
     background: var(--second-bg-color);
